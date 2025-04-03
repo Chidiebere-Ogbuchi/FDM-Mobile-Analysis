@@ -12,7 +12,9 @@ Pricing & Offer Data: FDM Track the Mobile market on a Daily and Weekly basis, c
 
 Output Excel Report
 
+![image](https://github.com/user-attachments/assets/041c084c-a1d1-4ad7-8166-1f11b241f67d)
+
 ![image](https://github.com/user-attachments/assets/9cc974b7-a73d-48fc-a06c-76e1174b161e)
 
-![image](https://github.com/user-attachments/assets/041c084c-a1d1-4ad7-8166-1f11b241f67d)
+
 
